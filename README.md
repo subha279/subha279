@@ -3,6 +3,7 @@
 </h1>
 
 ---
+**Languages**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -26,17 +27,9 @@
 
 ---
 
+**Stats**
+
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subha279&locale=en&hide_title=false&theme=gruvbox&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=subha279&hide_title=false&hide_rank=false&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=subha279&locale=en&mode=daily&hide_border=false&theme=gruvbox&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subha279&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=subha279&column=-1&row=1&margin-w=8&margin-h=8&theme=gruvbox&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
