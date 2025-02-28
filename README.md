@@ -2,8 +2,8 @@
 <h1 align="center">
   <img src="https://github.com/subha279/subha279/blob/main/subha.svg" alt="subha279" />
 </h1>
----
-**Languages**
+
+**`Languages`**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -27,7 +27,7 @@
 
 ---
 
-**Stats**
+**`Stats`**
 
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subha279&locale=en&hide_title=false&theme=gruvbox&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
