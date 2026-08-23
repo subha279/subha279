@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
 
 <details>
-  <summary><samp><b>❯ vim --tips</b> &nbsp;(for everyone stuck in here with me)</samp></summary>
+  <summary><samp><b>❯ neovim --tips</b> &nbsp;(for everyone stuck in here with me)</samp></summary>
 
 <br/>
 
