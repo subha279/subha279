@@ -52,4 +52,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=110&section=footer&reversal=false" width="100%" alt="" />
 </p>
 
-<p align="center"><samp><b>`:wq`</b></samp></p>
+<p align="center"><samp><b>:wq</b></samp></p>
