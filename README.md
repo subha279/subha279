@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/subha279">
-    <img src="https://raw.githubusercontent.com/subha279/subha279/main/subha.svg" alt="SUBHA279 — cybersecurity · python · linux · terminal-first" width="100%" />
+    <img src="https://raw.githubusercontent.com/subha279/subha279/main/subha.svg" alt="SUBHA279 — python · linux · terminal-first" width="100%" />
   </a>
 </div>
 
