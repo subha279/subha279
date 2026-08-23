@@ -25,9 +25,9 @@
 
 <img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
 
-- 🐧 &nbsp;Terminal-first by choice: **Linux + Vim + shell** over heavy GUIs
+- 🐧 &nbsp;Terminal-first by choice: **Linux + NeoVim + shell** over heavy GUIs
 - 🌱 &nbsp;Currently levelling up on **networking, scripting and secure coding habits**
-- 💬 &nbsp;Happy to talk about beginner-friendly security learning paths, Vim keybinds, or Python one-liners
+- 💬 &nbsp;Happy to talk about Vim keybinds, or Python one-liners and how to quit neovim
 
 <img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
 
