@@ -36,8 +36,6 @@ editor:    vim  # help, I can't leave
 motto:     "You're never too old to start. Be patient, enjoy the process."
 ```
 
-- 🔐 &nbsp;Studying **cybersecurity** — completed a 6-week Cyber Security program with **Edunet Foundation × IBM SkillsBuild** <!-- EDIT ME -->
-- 🐍 &nbsp;I write **small Python tools that remove small annoyances** — file organisers, steganography, automation scripts
 - 🐧 &nbsp;Terminal-first by choice: **Linux + Vim + shell** over heavy GUIs
 - 🌱 &nbsp;Currently levelling up on **networking, scripting and secure coding habits**
 - 💬 &nbsp;Happy to talk about beginner-friendly security learning paths, Vim keybinds, or Python one-liners
