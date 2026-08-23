@@ -79,7 +79,7 @@
     <rect x="340" y="166" width="220" height="1.5" fill="url(#rule)"/>
 
     <!-- subtitle -->
-    <text x="450" y="192" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#a9b1d6" letter-spacing="0.4">cybersecurity&#160;&#183;&#160;python&#160;&#183;&#160;linux&#160;&#183;&#160;terminal-first<tspan fill="#7dcfff" dx="4">&#9612;<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+    <text x="450" y="192" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#a9b1d6" letter-spacing="0.4">python&#160;&#183;&#160;linux&#160;&#183;&#160;terminal-first<tspan fill="#7dcfff" dx="4">&#9612;<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 
     <!-- vim status line -->
     <rect x="0" y="207" width="900" height="1" fill="#2a2e42"/>
