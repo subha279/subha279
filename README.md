@@ -25,12 +25,6 @@
 
 <img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
 
-- 🐧 &nbsp;Terminal-first by choice: **Linux + NeoVim + shell** over heavy GUIs
-- 🌱 &nbsp;Currently levelling up on **networking, scripting and secure coding habits**
-- 💬 &nbsp;Happy to talk about Vim keybinds, or Python one-liners and how to quit neovim
-
-<img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
-
 <details>
   <summary><samp><b>❯ neovim --tips</b> &nbsp;(for everyone stuck in here with me)</samp></summary>
 
