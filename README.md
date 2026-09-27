@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked?" alt="Cooked" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked?; Me too 😑" alt="Cooked" />
 </p>
 
 <p align="center">
