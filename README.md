@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Want+to+be+a+free+soul%2C+but+stuck+in+Vim!;Breaking+things+to+understand+how+they+work.;You're+never+too+old+to+start." alt="Want to be a free soul, but stuck in Vim!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked." alt="Cooked" />
 </p>
 
 <p align="center">
