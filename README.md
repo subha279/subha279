@@ -9,12 +9,12 @@
 
 <div align="center">
   <a href="https://github.com/subha279">
-    <img src="https://raw.githubusercontent.com/subha279/subha279/main/subha.svg" alt="SUBHA279 — python · linux · terminal-first" width="100%" />
+    <img src="https://raw.githubusercontent.com/subha279/subha279/main/subha.svg" alt="SUBHA279" width="100%" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked." alt="Cooked" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked?" alt="Cooked" />
 </p>
 
 <p align="center">
