@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 220" width="460" height="220" role="img" aria-label="Sunflower - github.com/subha279/Sunflower">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150f30"/>
+      <stop offset="1" stop-color="#26143f"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9b7bff">
+        <animate attributeName="stop-color" values="#9b7bff;#ff9ecb;#ffc6a5;#9b7bff" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#ffc6a5">
+        <animate attributeName="stop-color" values="#ffc6a5;#9b7bff;#ff9ecb;#ffc6a5" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0" stop-color="#cdb8ff"/>
+      <stop offset="1" stop-color="#ffd2b0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <clipPath id="clip"><rect x="10" y="16" width="440" height="180" rx="24"/></clipPath>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+
+    <rect x="10" y="16" width="440" height="180" rx="24" fill="url(#card)"/>
+    <g clip-path="url(#clip)">
+      <circle cx="360" cy="106" r="70" fill="#ffc6a5" opacity="0.25" filter="url(#blur)">
+        <animate attributeName="opacity" values="0.15;0.35;0.15" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="60" cy="40" r="60" fill="#8b6cff" opacity="0.3" filter="url(#blur)"/>
+      <rect x="11" y="17" width="438" height="60" rx="23" fill="#ffffff" fill-opacity="0.04"/>
+    </g>
+    <rect x="10" y="16" width="440" height="180" rx="24" fill="none" stroke="url(#border)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+    <text x="40" y="58" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="3" fill="#b8a1ff">FEATURED PROJECT</text>
+    <text x="40" y="108" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="url(#title)">Sunflower</text>
+    <text x="40" y="136" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#bfb3e6">github.com/subha279/Sunflower</text>
+
+    <rect x="40" y="152" width="134" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+    <text x="107" y="169.5" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#ffe3d1">View repository →</text>
+
+    <!-- sunflower -->
+    <g transform="translate(360 106)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="60s" repeatCount="indefinite"/>
+        <g fill="#ffd27f" fill-opacity="0.9">
+          <ellipse cx="0" cy="-34" rx="9" ry="22"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(30)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(60)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(90)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(120)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(150)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(180)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(210)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(240)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(270)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(300)"/>
+          <ellipse cx="0" cy="-34" rx="9" ry="22" transform="rotate(330)"/>
+        </g>
+      </g>
+      <circle r="21" fill="#3a2447" stroke="#ffcf8a" stroke-width="2"/>
+      <circle r="9" fill="#ffcf8a" opacity="0.35">
+        <animate attributeName="r" values="7;12;7" dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>

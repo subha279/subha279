@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="f1" x1="0" x2="1">
+      <stop offset="0" stop-color="#6f56d9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9b7bff" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="f2" x1="0" x2="1">
+      <stop offset="0" stop-color="#9b7bff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ff9ecb" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="f3" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffb8da" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ffd2b0" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="f4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1140"/>
+      <stop offset="1" stop-color="#0c0a1f"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#f1)" d="M0,60 q112.5,-34 225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 V140 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="15s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#f2)" d="M0,78 q112.5,-28 225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 V140 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#f3)" d="M0,96 q112.5,-22 225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 t225,0 V140 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <rect y="116" width="900" height="24" fill="url(#f4)" opacity="0.9"/>
+</svg>

@@ -1,47 +1,17 @@
-<!--
-  subha279 · profile README
-  Theme: Tokyo Night  ·  #1a1b26 (bg)  #7aa2f7 (blue)  #bb9af7 (purple)  #7dcfff (cyan)
-  Banner + divider are local SVGs in this repo, so they load fast and stay on-brand.
-  Search for "EDIT ME" to find the few spots worth personalising.
--->
-
-<samp>**`:q`**</samp>
-
 <div align="center">
-  <a href="https://github.com/subha279">
-    <img src="https://raw.githubusercontent.com/subha279/subha279/main/subha.svg" alt="SUBHA279" width="100%" />
-  </a>
+
+<img src="assets/header.svg" alt="Subha - The universe never explains why." width="100%" />
+
+<img src="assets/typing.svg" alt="Cooked ! Me too" width="100%" />
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<a href="https://github.com/subha279/Sunflower">
+  <img src="assets/project-sunflower.svg" alt="Sunflower - github.com/subha279/Sunflower" width="460" />
+</a>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/footer.svg" alt="" width="100%" />
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=36&lines=Cooked?" alt="Me too 😑" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/subha279?tab=followers"><img src="https://img.shields.io/github/followers/subha279?style=for-the-badge&logo=github&logoColor=C0CAF5&label=FOLLOWERS&labelColor=1A1B26&color=7AA2F7" alt="followers" /></a>
-  <a href="https://github.com/subha279?tab=repositories"><img src="https://img.shields.io/badge/REPOS-24-1A1B26?style=for-the-badge&logo=git&logoColor=C0CAF5&labelColor=1A1B26&color=BB9AF7" alt="repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=subha279&style=for-the-badge&color=7DCFFF&label=PROFILE+VIEWS" alt="profile views" />
-</p>
-
-<img src="https://raw.githubusercontent.com/subha279/subha279/main/divider.svg" width="100%" alt="" />
-
-<details>
-  <summary><samp><b>❯ neovim --tips</b> &nbsp;(for everyone stuck in here with me)</samp></summary>
-
-<br/>
-
-| Keys | Escape route |
-| :-- | :-- |
-| `:q` | quit |
-| `:q!` | quit, discard changes |
-| `:wq` | save and quit |
-| `ZZ` | save and quit, but cooler |
-| `:qa!` | quit everything, no regrets |
-
-</details>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=110&section=footer&reversal=false" width="100%" alt="" />
-</p>

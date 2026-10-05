@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="Cooked ! Me too">
+  <defs>
+    <linearGradient id="t" x1="0" x2="1">
+      <stop offset="0" stop-color="#cdb8ff"/>
+      <stop offset="1" stop-color="#ffb8da"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" x2="1">
+      <stop offset="0" stop-color="#1a1240"/>
+      <stop offset="1" stop-color="#2b1647"/>
+    </linearGradient>
+    <clipPath id="c1">
+      <rect x="392.4" y="14" height="44" width="0">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite"
+                 keyTimes="0;0.2;0.4;0.45;1" values="0;118;118;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="406.8" y="14" height="44" width="0">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite"
+                 keyTimes="0;0.5;0.7;0.9;0.95;1" values="0;0;90;90;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="270" y="8" width="360" height="56" rx="28" fill="url(#pill)" stroke="#cdb8ff" stroke-opacity="0.3"/>
+  <rect x="271" y="9" width="358" height="22" rx="22" fill="#ffffff" fill-opacity="0.04"/>
+
+  <text x="392.4" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="url(#t)" clip-path="url(#c1)">Cooked !</text>
+  <text x="406.8" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="url(#t)" clip-path="url(#c2)">Me too</text>
+
+  <!-- cursor -->
+  <rect y="19" width="2.5" height="30" rx="1" fill="#ffb8da">
+    <animate attributeName="x" dur="8s" repeatCount="indefinite"
+             keyTimes="0;0.2;0.4;0.45;0.5;0.7;0.9;0.95;1"
+             values="392.4;507.6;507.6;392.4;406.8;493.2;493.2;406.8;392.4"/>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.99;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
